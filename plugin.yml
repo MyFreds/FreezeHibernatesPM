@@ -1,0 +1,6 @@
+name: FreezeHibernatesPM
+main: Fred\FreezeHibernatesPM\Main
+version: 1.0.0
+api: 5.0.0
+author: Fred
+description: Stops the server tick when the last player disconnects and starts ticking again automatically when a player joins.
